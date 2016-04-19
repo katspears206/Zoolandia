@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Zoolandia.Pantheras
 {
-    class PantheraPardus
+    class PantheraPardus : Species
     {
     }
 }

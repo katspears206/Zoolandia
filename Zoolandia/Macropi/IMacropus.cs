@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Zoolandia.Presbytis
+namespace Zoolandia.Macropi
 {
-    class PresbytisObscurus
+    interface IMacropus
     {
     }
 }

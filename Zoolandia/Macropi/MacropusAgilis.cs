@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Zoolandia.Macropus
+namespace Zoolandia.Macropi
 {
-    class MacropusEugenii
+    class MacropusAgilis : Species
     {
     }
 }

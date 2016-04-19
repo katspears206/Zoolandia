@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using Zoolandia.Felines;
-using Zoolandia.Macropus;
+using Zoolandia.Macropi;
 using Zoolandia.Pantheras;
-using Zoolandia.Presbytis;
+using Zoolandia.Presbytiss;
 
 namespace Zoolandia
 {
