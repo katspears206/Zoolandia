@@ -8,5 +8,9 @@ namespace Zoolandia
 {
     class Macropus : Genus
     {
+        public bool BabiesInPouches = true;
+        public bool Herbivore = true;
+        public string ConsistsMostlyOf = "kangaroos, wallabies";
+        public bool BigAssTails = true;
     }
 }

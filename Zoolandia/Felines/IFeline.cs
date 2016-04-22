@@ -8,5 +8,10 @@ namespace Zoolandia.Felines
 {
     interface IFeline
     {
+        string FurColor();
+        string WhereyouFrom();
+        int NumberOfSubspecies();
+        string FurPattern();
+        string EarType();
     }
 }

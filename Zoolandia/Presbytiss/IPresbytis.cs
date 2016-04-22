@@ -8,5 +8,10 @@ namespace Zoolandia.Presbytiss
 {
     interface IPresbytis
     {
+        bool Swing();
+        bool HasTail();
+        bool EatsLeaves();
+        string FurColor();
+        string WhereYouFrom();
     }
 }

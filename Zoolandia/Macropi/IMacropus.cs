@@ -8,5 +8,10 @@ namespace Zoolandia.Macropi
 {
     interface IMacropus
     {
+        string FurColor();
+        bool Kangaroo();
+        bool StrongAssTails();
+        string SmallVsBig();
+        string WhereYouFrom();
     }
 }

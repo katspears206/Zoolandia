@@ -8,5 +8,9 @@ namespace Zoolandia
 {
     class Felis : Genus
     {
+        public bool CanRoar = false;
+        public string Size = "small";
+        public string CommonlyCalled = "true cats";
+        public bool Carnivore = true;
     }
 }
